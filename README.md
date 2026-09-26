@@ -1,6 +1,6 @@
 # 🏋️ FitLog — Workout Library
 
-A dark, no-nonsense gym companion. Browse a library of lifts, lock your picks into today's plan, save others for later, and watch the day's work add up.
+A dark-themed workout library app built with Next.js — browse lifts, build a daily plan, and track it with live stats.
 
 **Live site:** [add your deployed link here](#)
 **Repository:** https://github.com/AkramMdkhan/B-14-Assignment-6-Fit-Log
