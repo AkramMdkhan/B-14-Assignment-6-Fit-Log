@@ -2,7 +2,7 @@
 
 A dark-themed workout library app built with Next.js — browse lifts, build a daily plan, and track it with live stats.
 
-**Live site:** [add your deployed link here](#)
+**Live site:** [b-14-assignment-6-fit-log.vercel.app](https://b-14-assignment-6-fit-log.vercel.app)
 **Repository:** https://github.com/AkramMdkhan/B-14-Assignment-6-Fit-Log
 
 ## 🛠️ Technologies Used
